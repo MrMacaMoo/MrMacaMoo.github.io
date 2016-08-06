@@ -2,7 +2,7 @@ body { color: red; }
 
 .header {
   text-align: center;
-  background: red;
+  background: #060B99;
   background-size: cover;
   position: relative;
   overflow: visible;
