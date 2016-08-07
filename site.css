@@ -2,7 +2,6 @@ body { color: red; }
 
 .header {
   font-family:"Arial Black", Gadget, sans-serif;
-  font-size: 70px;
   text-align: center;
   background-image: url("WebTop.png");
   background-position: bottom;
@@ -31,7 +30,7 @@ body { color: red; }
       text-transform: uppercase;
       display: block;
       font-weight: bold;
-      font-size: 20px;
+      font-size: 10px;
       letter-spacing: 1px;
       transition: all 0.35s ease-in-out; }
       .header-subnav li a.is-active {
