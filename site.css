@@ -2,6 +2,7 @@ body { color: red; }
 
 .header {
   font-family:"Arial Black", Gadget, sans-serif;
+  font-size: 70px;
   text-align: center;
   background-image: url("WebTop.png");
   background-position: bottom;
