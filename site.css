@@ -38,6 +38,7 @@ body { color: red; }
         transition: all 0.35s ease-in-out; }
 
 .subheader {
+  position: absolute;
   display: inline;
   text-align: center;
   color: red;
