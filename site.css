@@ -37,4 +37,8 @@ body { color: red; }
         background: rgba(250, 250, 250, 0.15);
         transition: all 0.35s ease-in-out; }
 
-.subheader
+.subheader {
+  text-align: center;
+  color: red;
+  padding: 100px 10px;
+}
