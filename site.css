@@ -43,3 +43,8 @@ body { color: red; }
   color: red;
   padding: 10px 100px;
 }
+
+section {
+  float: left;
+  width: 63%;
+}
