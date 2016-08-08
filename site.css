@@ -48,9 +48,7 @@ body { color: red; }
 
 .col-md-3 {
   background-color: #B8B8B8; 
-  border: #DDD; 
-  padding: 10px; 
-  margin:10px;
+  border: black; 
   text-align: center;
   font-family:"Arial Black", Gadget, sans-serif;
 }
