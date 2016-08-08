@@ -50,6 +50,8 @@ body { color: red; }
   padding: 5px;
   border-radius: 15px;
   background-color: #B8B8B8; 
+  border-style: solid;
+  border-color: #ff0000 #0000ff;
   text-align: center;
   font-family:"Arial Black", Gadget, sans-serif;
 }
@@ -58,6 +60,8 @@ body { color: red; }
   padding: 5px;
   border-radius: 15px;
   background-color: #B8B8B8; 
+  border-style: solid;
+  border-color: #ff0000 #0000ff;
   text-align: center;
   font-family:"Arial Black", Gadget, sans-serif;
 }
