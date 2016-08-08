@@ -6,6 +6,7 @@ body { color: red; }
   background-image: url("WebTop.png");
   background-position: bottom;
   background-size: cover;
+  box-shadow: 8px 8px 6px -2px gray;
   position: relative;
   overflow: visible;
   padding-top: 4rem;
