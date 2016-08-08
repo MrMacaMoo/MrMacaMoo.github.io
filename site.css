@@ -45,3 +45,8 @@ body { color: red; }
   color: red;
   padding: 10px 100px;
 }
+
+.col-md-3 {
+  text-align: center;
+  font-family:"Arial Black", Gadget, sans-serif;
+}
