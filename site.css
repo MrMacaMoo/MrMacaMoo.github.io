@@ -46,27 +46,16 @@ body { color: red; }
   padding: 10px 100px;
 }
 
-.col-md-4 {
-  padding: 5px;
-  margin: 3px;
-  border-radius: 15px;
-  background-color: #B8B8B8; 
-  text-align: center;
-  font-family:"Arial Black", Gadget, sans-serif;
-}
-
 .col-md-3 {
   padding: 5px;
-  margin: 3px;
   border-radius: 15px;
   background-color: #B8B8B8; 
   text-align: center;
   font-family:"Arial Black", Gadget, sans-serif;
 }
 
-.col-md-5 {
+.col-md-6 {
   padding: 5px;
-  margin: 3px;
   border-radius: 15px;
   background-color: #B8B8B8; 
   text-align: center;
