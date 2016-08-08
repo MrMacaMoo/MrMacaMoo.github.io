@@ -50,3 +50,8 @@ body { color: red; }
   text-align: center;
   font-family:"Arial Black", Gadget, sans-serif;
 }
+
+.col-md-3 {
+  text-align: center;
+  font-family:"Arial Black", Gadget, sans-serif;
+}
