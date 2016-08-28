@@ -1,4 +1,6 @@
-body { color: red; }
+body {
+  background-image: url("WebBackground.png");
+}
 
 .header {
   font-family:"Arial Black", Gadget, sans-serif;
@@ -12,7 +14,7 @@ body { color: red; }
   padding-top: 4rem;
   padding-bottom: 5rem; }
   .header .headline {
-    color: white; }
+  color: white; }
 
 .header-subnav {
   float: none;
