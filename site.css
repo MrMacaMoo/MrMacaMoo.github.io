@@ -2,7 +2,7 @@ body {
   background-image: url("WillIcon1.png");
   background-position: center;
   background-attachment: fixed;
-  background-size: contain;
+  background-size: cover;
 }
 
 .header {
